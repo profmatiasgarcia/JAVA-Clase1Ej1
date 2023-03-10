@@ -1,6 +1,10 @@
 # JAVA-Clase1Ej1
+## Ejemplo 1 del Tutorial de JAVA Clase 1
 
-Ejemplo 1 del apunte de [JAVA Clase 1](https://profmatiasgarcia.com.ar/uploads/tutoriales/ClaseTeoricaJAVA1.pdf).
-<ul>
-  <li> Tipos de datos en JAVA</li>
-  </ul>
+  * Tipos de datos en JAVA
+
+## Apunte Clase Teórica JAVA 1
+[JAVA-Clase1](https://profmatiasgarcia.com.ar/uploads/tutoriales/ClaseTeoricaJAVA1.pdf)
+
+## Licencia
+[GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)
