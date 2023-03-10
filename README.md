@@ -1,6 +1,6 @@
 # JAVA-Clase1Ej1
 
-<p>Ejemplo 1 del apunte de JAVA <b>Clase 1</b> </p>
+Ejemplo 1 del apunte de [JAVA Clase 1](https://profmatiasgarcia.com.ar/uploads/tutoriales/ClaseTeoricaJAVA1.pdf).
 <ul>
   <li> Tipos de datos en JAVA</li>
   </ul>
